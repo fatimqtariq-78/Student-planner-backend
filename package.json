@@ -1,0 +1,19 @@
+{
+  "name": "studyflow-api",
+  "version": "1.0.0",
+  "description": "StudyFlow Student Planner Backend API — DecodeLabs Internship Project 2 (Node.js + Express, temporary in-memory data storage, no database).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "studyflow",
+    "decodelabs"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
